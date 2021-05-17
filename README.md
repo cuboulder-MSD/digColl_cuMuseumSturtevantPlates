@@ -4,41 +4,41 @@
 
 ## Metadata
 
-# Collection Name
+### Collection Name
 
-# Title
+### Title
 
-# Name
+### Name
 
-# Resource Type
+### Resource Type
 
-# Genre
+### Genre
 
-# Language
+### Language
 
-# Extent
+### Extent
 
-# Form
+### Form
 
-# Date Created
+### Date Created
 
-# Subject Topic
+### Subject Topic
 
-# Subject Name
+### Subject Name
 
-# Subject Geographic
+### Subject Geographic
 
-# Subject Temporal
+### Subject Temporal
 
-# Identifier
+### Identifier
 
-# Physical Location
+### Physical Location
 
-# Internet Media Type
+### Internet Media Type
 
-# Digital Origin
+### Digital Origin
 
-# Access Condition
+### Access Condition
 
 ## Additional Resources
 
