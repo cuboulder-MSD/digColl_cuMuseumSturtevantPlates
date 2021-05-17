@@ -27,7 +27,7 @@ Common subject headings include: [Portraits](http://id.worldcat.org/fast/1072324
 ### Subject Name
 Common names seen on the photographs include: Bass, Lawrence P. (local name), Rocky Mountain Joe (local name), and Meile, Louis (local name)
 ### Subject Geographic
-The most common coverage string used is: Boulder (Boulder, Colorado, United States, North America) (populated place). If a place is shown in brackets, for example [Boulder (Boulder, Colorado, United States, North America) (populated place)] this means the place is guessed or assumed by the cataloger.  
+The most common coverage string used is: Boulder (Boulder, Colorado, United States, North America) (populated place). If a place is shown in brackets, for example [Boulder (Boulder, Colorado, United States, North America) (populated place)] this means the place is guessed or assumed by the cataloger. The strings are formulated after Geographic Names Information System (GNIS) data. 
 ### Subject Temporal
 The date range of the active years of Sturtevant: 1886/1910
 ### Identifier
