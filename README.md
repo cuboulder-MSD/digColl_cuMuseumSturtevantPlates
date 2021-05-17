@@ -1,1 +1,5 @@
-# digColl_cuMuseumSturtevantPlates
+# CU Museum of Natural History: Sturtevant Plates
+
+## Description
+
+## Metadata
