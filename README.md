@@ -1,7 +1,7 @@
 # CU Museum of Natural History: Sturtevant Plates
 
 ## Description
-
+Joseph Sturtevant was a photographer in Boulder from about 1874 to 1910. He was one of four children of Samuel and Jemima Sturtevant and was born February 8, 1851 in Boston, Massachusetts. His family moved to western Wisconsin around 1854 or 1855, where his father was a merchant. By 1874 he had moved to Boulder, Colorado. There he was first a sign maker and then a photographer. It was after he became a photographer that he started calling himself “Rocky Mountain Joe.” He died on April 6, 1910, after trying to get on to or falling off of, a train going from Denver to Boulder.
 ## Metadata
 
 ### Collection Name
