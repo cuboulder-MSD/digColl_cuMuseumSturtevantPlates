@@ -46,6 +46,6 @@ The organization that has made the Item available believes that the Item is in t
 Access Condition comes from [rightsstatements.org](http://rightsstatements.org/vocab/NoC-US/1.0/)
 ## Additional Resources
 
-[Boulder: Evolution of a City; Early Boulder Photographers](https://upcolorado.com/university-press-of-colorado/item/download/256_b7bb2518d8024311f56f4f107426111e) provides information about photographer, Joseph Bevier Sturtevant and the other photographers he worked with including Louis Meile and Lawerence P. Bass.
+[Boulder: Evolution of a City; Early Boulder Photographers](https://upcolorado.com/university-press-of-colorado/item/download/256_b7bb2518d8024311f56f4f107426111e) provides information about photographer, Joseph Bevier Sturtevant and the other photographers he worked with including Louis Meile and Lawrence P. Bass.
 
 ## Notes
