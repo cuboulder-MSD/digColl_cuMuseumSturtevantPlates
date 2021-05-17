@@ -31,7 +31,7 @@ The most common coverage string used is: Boulder (Boulder, Colorado, United Stat
 ### Subject Temporal
 The date range of the active years of Sturtevant: 1886/1910
 ### Identifier
-[According to repository details from Rare and Distinctive Collections](https://archives.colorado.edu/repositories/2/resources/1679): When a numbering system that was put in place by the Museum was evident, it was kept as the identifier and listed as the folder number. In Series 2 most of the images by Joseph Sturtevant have numbers starting with “xx.” Joseph Sturtevant’s glass plate negatives, with the identifiers of “xx” before their number, sometimes have a corresponding photographic print also located within the collection. When this occurred, a note identifying the location of the print was placed in the “Additional Description” section of the finding aid.
+According to repository details from [Rare and Distinctive Collections](https://archives.colorado.edu/repositories/2/resources/1679): When a numbering system that was put in place by the Museum was evident, it was kept as the identifier and listed as the folder number. In Series 2 most of the images by Joseph Sturtevant have numbers starting with “xx.” Joseph Sturtevant’s glass plate negatives, with the identifiers of “xx” before their number, sometimes have a corresponding photographic print also located within the collection. When this occurred, a note identifying the location of the print was placed in the “Additional Description” section of the finding aid.
 
 Identifier example: narv_sturtevant_39_xx001.jpg
 ### Physical Location
