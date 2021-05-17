@@ -41,7 +41,9 @@ image/jpeg
 ### Digital Origin
 reformatted digital
 ### Access Condition
-[The organization that has made the Item available believes that the Item is in the Public Domain under the laws of the United States, but a determination was not made as to its copyright status under the copyright laws of other countries. The Item may not be in the Public Domain under the laws of other countries. Please refer to the organization that has made the Item available for more information.](http://rightsstatements.org/vocab/NoC-US/1.0/)
+The organization that has made the Item available believes that the Item is in the Public Domain under the laws of the United States, but a determination was not made as to its copyright status under the copyright laws of other countries. The Item may not be in the Public Domain under the laws of other countries. Please refer to the organization that has made the Item available for more information.
+
+Access Condition comes from [rightsstatements.org](http://rightsstatements.org/vocab/NoC-US/1.0/)
 ## Additional Resources
 
 [Boulder: Evolution of a City; Early Boulder Photographers](https://upcolorado.com/university-press-of-colorado/item/download/256_b7bb2518d8024311f56f4f107426111e) provides information about photographer, Joseph Bevier Sturtevant and the other photographers he worked with including Louis Meile and Lawerence P. Bass.
