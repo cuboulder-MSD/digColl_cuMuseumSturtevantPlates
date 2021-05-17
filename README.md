@@ -42,6 +42,6 @@
 
 ## Additional Resources
 
-https://upcolorado.com/university-press-of-colorado/item/download/256_b7bb2518d8024311f56f4f107426111e
+[Boulder: Evolution of a City; Early Boulder Photographers](https://upcolorado.com/university-press-of-colorado/item/download/256_b7bb2518d8024311f56f4f107426111e)
 
 ## Notes
