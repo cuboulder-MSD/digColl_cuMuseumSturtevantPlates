@@ -7,7 +7,7 @@
 ### Collection Name
 Sturtevant Plates
 ### Title
-Titles come from the captions provided on the negatives or photographs by Sturtevant. If a caption was not available, a title was created by the cataloger.
+Titles come from the captions provided on the negatives by Sturtevant. If a caption was not available, a title was created by the cataloger.
 ### Name
 [Sturtevant, J. Bevier (Joseph Bevier), 1851-1910](http://id.worldcat.org/fast/352744)
 ### Resource Type
@@ -29,9 +29,11 @@ Common names seen on the photographs include: Bass, Lawrence P. (local name), Ro
 ### Subject Geographic
 The most common coverage string used is: Boulder (Boulder, Colorado, United States, North America) (populated place). If a place is shown in brackets, for example [Boulder (Boulder, Colorado, United States, North America) (populated place)] this means the place is guessed or assumed by the cataloger.  
 ### Subject Temporal
-Included the date range of the active years of Sturtevant: 1886/1910
+The date range of the active years of Sturtevant: 1886/1910
 ### Identifier
-When a numbering system that was put in place by the Museum was evident, it was kept as the identifier and listed as the folder number. In Series 2 most of the images by Joseph Sturtevant have numbers starting with “xx.” Joseph Sturtevant’s glass plate negatives, with the identifiers of “xx” before their number, sometimes have a corresponding photographic print also located within the collection. When this occurred, a note identifying the location of the print was placed in the “Additional Description” section of the finding aid. For example: narv_sturtevant_39_xx001.jpg
+[According to repository details from Rare and Distinctive Collections](https://archives.colorado.edu/repositories/2/resources/1679): When a numbering system that was put in place by the Museum was evident, it was kept as the identifier and listed as the folder number. In Series 2 most of the images by Joseph Sturtevant have numbers starting with “xx.” Joseph Sturtevant’s glass plate negatives, with the identifiers of “xx” before their number, sometimes have a corresponding photographic print also located within the collection. When this occurred, a note identifying the location of the print was placed in the “Additional Description” section of the finding aid.
+
+Identifier example: narv_sturtevant_39_xx001.jpg
 ### Physical Location
 CU Museum of Natural History
 ### Internet Media Type
