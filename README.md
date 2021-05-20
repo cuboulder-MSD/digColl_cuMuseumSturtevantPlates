@@ -14,14 +14,16 @@ Titles come from the captions provided on the negatives by Sturtevant. If a capt
 [Still image](http://id.loc.gov/vocabulary/resourceTypes/img)
 ### Genre
 [Photographs](http://id.loc.gov/authorities/genreForms/gf2017027249)
+### Date Created
+Dates range from 1886/1910 when Sturtevant was an active photographer in Boulder, Colorado.
 ### Language
 [English](http://id.loc.gov/vocabulary/iso639-2/eng)
 ### Extent
 1 glass plate negative
 ### Form
 [glass plate negatives](http://vocab.getty.edu/page/aat/300393160); [black-and-white photographs](http://vocab.getty.edu/page/aat/300128347)
-### Date Created
-Dates range from 1886/1910 when Sturtevant was an active photographer in Boulder, Colorado.
+### Abstract
+Brief description of the content of the photograph and additional notes about related items.
 ### Subject Topic
 Common subject headings include: [Portraits](http://id.worldcat.org/fast/1072324), [Cities and towns](http://id.worldcat.org/fast/861748), [Landscapes](http://id.worldcat.org/fast/1735625), [Mines and mineral resources](http://id.worldcat.org/fast/1022541), [Photography--Studios and dark rooms](http://id.worldcat.org/fast/1061833), [Outdoor photography](http://id.worldcat.org/fast/1049157), [Rock climbing](http://id.worldcat.org/fast/1099140), Rock formations (local term)
 ### Subject Name
