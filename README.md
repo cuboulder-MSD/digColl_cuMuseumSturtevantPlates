@@ -21,15 +21,13 @@ Titles come from the captions provided on the negatives by Sturtevant. If a capt
 ### Form
 [glass plate negatives](http://vocab.getty.edu/page/aat/300393160); [black-and-white photographs](http://vocab.getty.edu/page/aat/300128347)
 ### Date Created
-Dates range from 1886/1910 when Sturtevant was an active photographer in Boulder, Colorado. Many photographs left "Undated."
+Dates range from 1886/1910 when Sturtevant was an active photographer in Boulder, Colorado.
 ### Subject Topic
 Common subject headings include: [Portraits](http://id.worldcat.org/fast/1072324), [Cities and towns](http://id.worldcat.org/fast/861748), [Landscapes](http://id.worldcat.org/fast/1735625), [Mines and mineral resources](http://id.worldcat.org/fast/1022541), [Photography--Studios and dark rooms](http://id.worldcat.org/fast/1061833), [Outdoor photography](http://id.worldcat.org/fast/1049157), [Rock climbing](http://id.worldcat.org/fast/1099140), Rock formations (local term)
 ### Subject Name
 Common names seen on the photographs include: Bass, Lawrence P. (local name), Rocky Mountain Joe (local name), and Meile, Louis (local name)
 ### Subject Geographic
 The most common coverage string used is: Boulder (Boulder, Colorado, United States, North America) (populated place). If a place is shown in brackets, for example [Boulder (Boulder, Colorado, United States, North America) (populated place)] this means the place is guessed or assumed by the cataloger. The strings are formulated after Geographic Names Information System (GNIS) data. 
-### Subject Temporal
-The date range of the active years of Sturtevant: 1886/1910
 ### Subject Genre
 Some of the photographs depict paintings, sketches, illustrations, or advertisements that Sturtevant did.
 ### Identifier
